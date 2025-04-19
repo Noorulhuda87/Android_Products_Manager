@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.NoorulhudaCOMP304402Lab3" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Noorulhuda_Products_Manager" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

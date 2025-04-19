@@ -26,7 +26,7 @@ android {
     android {
         signingConfigs {
             create("release") {  // Use `create()` instead of direct declaration
-                storeFile = file("C:/Users/noorl/Desktop/AndroidProjects/NoorulhudaCOMP304402Lab3/my-release-key.jks")
+                storeFile = file("C:/Users/noorl/Desktop/AndroidProjects/Noorulhuda_Project_Manager/my-release-key.jks")
                 storePassword = "123456"  // Use `=` for assignment
                 keyAlias = "key0"
                 keyPassword = "123456"
