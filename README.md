@@ -3,6 +3,11 @@
 A modern Android application built with **Jetpack Compose**, **Room Database**, and **Material 3**, designed to manage products with full CRUD capabilities and favorite tagging.
 
 ---
+## 📸 Screenshots
+![1](https://github.com/user-attachments/assets/9433177f-513d-4965-9e40-973742d3b722)
+![2](https://github.com/user-attachments/assets/cb7f1705-9b56-4935-94f7-6e2f2de3b545)
+![3](https://github.com/user-attachments/assets/6aea3f2f-e93e-4aaf-895d-dc361a08dfbf)
+![4](https://github.com/user-attachments/assets/65968c48-8103-4c8e-9fcc-2838199ec86f)
 
 ## ✨ Features
 
@@ -13,14 +18,6 @@ A modern Android application built with **Jetpack Compose**, **Room Database**, 
 - ❤️ Mark products as favorites
 - 🌗 Light & dark theme support (Material 3)
 - 📦 Local persistence using Room Database
-
----
-
-## 📸 Screenshots
-
-Coming soon...
-
----
 
 ## 🛠️ Built With
 
